@@ -1,6 +1,6 @@
-# Even or Odd number
+# Took simple programs
 
-just learning these things in github
+To learn these things in github
 * to create repository
 * push
 * pull
